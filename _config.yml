@@ -1,11 +1,11 @@
-title: MinDoc Template # You will insert your title here.
-email: your-email@example.com
-description: by Authors # Author names go here.
+title: James' Website 
+email: jamesgm3@illinois.edu 
+description: jamesgm3.edu
 
-baseurl: "" # Set to the repository name so assets resolve correctly both locally and on GitHub Pages. If you rename the repo, update this value to match.
+baseurl: "/James-Monahan"
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: N/A
+github_username: 
 
 # Build settings
 
