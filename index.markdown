@@ -4,39 +4,14 @@ layout: single_page
 
 # Introduction
 
-Word count: 250–450 words
+James Monahan's big beautiful website. Made on Github, as a bit of a "practice run" to get familiar with publishing websites using Github. Done while working as a member of Sourcelab's Editorial Board. 
 
-This is the first written element of an edition: the first content readers encounter.
+As part of this website, in order to learn how to include images, I have included a stock image of a hummingbird. 
 
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.
 
-The premium is on precise, no-nonsense prose.
 
-At bottom, you should include:
 
-**How to Cite:**
-Here, provide a citation using this model:
 
-> Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
-
-Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
-
-If you choose and wish to do so, you may also include a Creative Commons license here. We'll discuss those in class.
-
-Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
-
-# The Source
-
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
-
-{% assign media = site.mindoc_media | where: "page", "source" %}
-{% include media_next.html pages=media %}
-
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
-
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
-
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
 
 # About this Source
 
