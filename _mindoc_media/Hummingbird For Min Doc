@@ -1,1 +1,3 @@
 _mindoc_media/Hummingbird For Min Doc.md
+{% assign media = site.mindoc_media | where: "page", "source" %}
+{% include media_next.html pages=media %}
